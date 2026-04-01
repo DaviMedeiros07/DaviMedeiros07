@@ -5,9 +5,8 @@
 - Atualmente estudando Ciência da Computação  
 - Aprendendo Java e lógica de programação  
 
-- Buscando evoluir como desenvolvedor e construir projetos cada vez melhores  
-- Sempre aprendendo algo novo  
-
+- Buscando evoluir como desenvolvedor e construir projetos cada vez melhores
+  
 ---
 
 ### 🛠️ Tecnologias em aprendizado
