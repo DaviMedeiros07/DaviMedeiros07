@@ -1,16 +1,22 @@
-## Hi there 👋
+###👋 Eae, tudo certo?
 
-<!--
-**DaviMedeiros07/DaviMedeiros07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Tenho 18 anos  
+- Moro em Florianópolis - SC, Brasil  
+- Atualmente estudando Ciência da Computação  
+- Aprendendo Java e lógica de programação  
 
-Here are some ideas to get you started:
+- Buscando evoluir como desenvolvedor e construir projetos cada vez melhores  
+- Sempre aprendendo algo novo  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias em aprendizado
+- Java  
+- Lógica de programação  
+- Algoritmos  
+
+---
+
+### 🎯 Objetivo
+Me tornar um desenvolvedor profissional e construir soluções que façam a diferença.
+
